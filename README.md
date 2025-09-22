@@ -36,7 +36,14 @@ Exemplo de JSON simples que usei:
   }
 }
 
-    }
-  }
+---
+
+## 💡 O que aprendi:
+
+Durante o desafio, percebi como o Step Functions facilita a orquestração de serviços AWS sem precisar escrever muito código.
+Também aprendi que é possível monitorar cada etapa do workflow, o que ajuda muito no debug e acompanhamento das execuções.
+A integração com Lambda Functions mostra como automatizar e escalar processos de forma prática e eficiente.
+    
+  
 }
 
