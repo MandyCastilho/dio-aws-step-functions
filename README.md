@@ -20,7 +20,15 @@ Aprender na prática como criar e gerenciar **workflows automáticos** usando St
 1. Criei minha *State Machine* direto no console da AWS.  
 2. Estruturei o fluxo em **JSON (Amazon States Language)**.  
 3. Integrei o workflow com funções Lambda.  
-4. Executei e acompanhei tudo no console para ver o resultado.  
+4. Executei e acompanhei tudo no console para ver o resultado.
+
+   ---
+
+## 💡 O que aprendi:
+
+Durante o desafio, percebi como o Step Functions facilita a orquestração de serviços AWS sem precisar escrever muito código.
+Também aprendi que é possível monitorar cada etapa do workflow, o que ajuda muito no debug e acompanhamento das execuções.
+A integração com Lambda Functions mostra como automatizar e escalar processos de forma prática e eficiente.
 
 Exemplo de JSON simples que usei:
 
@@ -36,14 +44,8 @@ Exemplo de JSON simples que usei:
   }
 }
 
----
 
-## 💡 O que aprendi:
-
-Durante o desafio, percebi como o Step Functions facilita a orquestração de serviços AWS sem precisar escrever muito código.
-Também aprendi que é possível monitorar cada etapa do workflow, o que ajuda muito no debug e acompanhamento das execuções.
-A integração com Lambda Functions mostra como automatizar e escalar processos de forma prática e eficiente.
     
   
-}
+
 
